@@ -47,4 +47,4 @@
 Sinta-se à vontade para explorar meus repositórios ou entrar em contato comigo pelo LinkedIn!
 
 * **LinkedIn:** [linkedin.com/in/dias-gustavo](https://www.linkedin.com/in/dias-gustavo/)
-* **Email:** [gustavomiranda555t@gmail.com]
+* **Email:** gustavomiranda555t@gmail.com
